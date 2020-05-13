@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"BelloClass","l":"BelloClass()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"BelloClass","l":"BelloMet(int, int)","url":"BelloMet(int,int)"},{"p":"<Unnamed>","c":"BelloClass","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"BelloClass","l":"toString()"}]
